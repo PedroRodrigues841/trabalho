@@ -10,7 +10,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 * Referência completa: `[Adriana Kiomi Michina Moriyama]`
 * DOI ou URL: `[https://doi.org/10.5433/1981-8920.2025v30n2p79]`
-* Base de origem: `[https://ojs.uel.br/revistas/uel/index.php/informacao/article/view/50916]`
+* Base de origem: `[Informação & Informação]`
 * Leitor responsável: `[Pedro de Oliveira Rodrigues]`
 * Data da leitura: `[08/10/2026]`
 
