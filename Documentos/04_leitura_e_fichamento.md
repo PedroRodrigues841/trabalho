@@ -8,33 +8,33 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `[Adriana Kiomi Michina Moriyama]`
+* DOI ou URL: `[https://doi.org/10.5433/1981-8920.2025v30n2p79]`
+* Base de origem: `[https://ojs.uel.br/revistas/uel/index.php/informacao/article/view/50916]`
+* Leitor responsável: `[Pedro de Oliveira Rodrigues]`
+* Data da leitura: `[08/10/2026]`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`[Dificuldade de produzir e disponibilizar textos digitais acessíveis para estudantes com deficiência visual nas universidades]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Encontrar os principais desafios na adaptação de materiais digitais e buscar soluções para melhorar a acessibilidade]`
 
 ### Método utilizado
 
-`[preencher]`
+`[Google]`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[O estudo foi realizado em uma Universidade Federal do Sul do Brasil, envolvendo setores responsáveis pela acessibilidade dos materiais.]`
 
 ### Principais resultados
 
-`[preencher]`
+`[A rotatividade de profissionais dificulta a adaptação dos materiais. O estudo destaca a importância da capacitação, do planejamento e da colaboração entre os setores.]`
 
 ### Limitações apresentadas
 
@@ -42,23 +42,23 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[O estudo mostra como textos acessíveis e leitores de tela são importantes para garantir a inclusão de estudantes com deficiência visual no Ensino Superior.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[O artigo é importante por mostrar dificuldades reais enfrentadas pelas universidades.]`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `[“A rotatividade de pessoal na adaptação de materiais aparece como um desafio central.”]`
 
-Página: `[número]`
+Página: `[1]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
 
