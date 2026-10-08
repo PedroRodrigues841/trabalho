@@ -8,7 +8,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[Borges, W. F., & Mendes, E. G. (2024). Tecnologia assistiva e baixa visão: apps e recursos de acessibilidade em dispositivos móveis. Cadernos Brasileiros de Terapia Ocupacional, 32, e3746.]`
+* Referência completa: `[Wanessa Ferreira BORGES,Eniceia Gonçalves MENDES. (2024). Tecnologia assistiva e baixa visão: apps e recursos de acessibilidade em dispositivos móveis. Cadernos Brasileiros de Terapia Ocupacional, 32, e3746.]`
 * DOI ou URL: `[https://www.scielo.br/j/cadbto/a/fDQp57YtBgLmxvcvXzSjD7s/?lang=pt]`
 * Base de origem: `[SciELO Brasil]`
 * Leitor responsável: `[Rafael Yudi Tokunaga]`
