@@ -8,7 +8,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[Adriana Kiomi Michina Moriyama]`
+* Referência completa: `[MORIYAMA, Adriana Kiomi Michina; MICHALOSKI, Ariel Orlei; RETORTA, Miriam Sester. Desafios e possibilidades na produção e disponibilização de textos digitais acessíveis para estudantes com deficiência visual no Ensino Superior. Informação & Informação, Londrina, v. 30, n. 2, p. 79-105, abr./jun. 2025.]`
 * DOI ou URL: `[https://doi.org/10.5433/1981-8920.2025v30n2p79]`
 * Base de origem: `[Informação & Informação]`
 * Leitor responsável: `[Pedro de Oliveira Rodrigues]`
