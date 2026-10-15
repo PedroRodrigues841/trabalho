@@ -15,9 +15,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
 | `[1. Recursos tecnológicos]` | `[Borges e Mendes (2024); Moriyama et al. (2025); Sousa et al. (2026)]` | `[Leitores de tela são essenciais para a autonomia. Imagens sem descrição são barreira.]` | `[Públicos diferentes: baixa visão, alunos cegos e deficiência visual em geral.]` | `[Borges e Mendes: grupo único de WhatsApp. Moriyama et al.: 14 participantes, uma universidade.]` | `[Nenhum foca estudantes com baixa visão no Ensino Superior.]` |
-
 | `[2. Barreiras institucionais]` | `[Moriyama et al. (2025); Sousa et al. (2026)]` | `[A tecnologia sozinha não basta: faltam capacitação e aplicação adequada das diretrizes.]` | `[Moriyama: barreiras de gestão. Sousa: barreiras de avaliação.]` | `[Moriyama não declara limitações. Sousa só incluiu artigos em inglês.]` | `[Falta testar se capacitar a equipe melhora a qualidade do material.]` |
-
 | `[3. Avaliação e voz do usuário]` | `[Sousa et al. (2026); Borges e Mendes (2024); Moriyama et al. (2025)]` | `[Os estudos valorizam a participação dos usuários.]` | `[Dois usam relatos dos usuários. Sousa analisa instrumentos padronizados.]` | `[O SUS não foi feito para esse público. Os relatos não usam escalas validadas.]` | `[Faltam instrumentos adaptados à baixa visão.]` |
 
 ## Roteiro da revisão da literatura
