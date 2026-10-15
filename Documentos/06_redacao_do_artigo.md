@@ -49,8 +49,12 @@ Sousa et al. (2026) apontam a aplicação superficial de diretrizes e a dependê
 
 ## Referências
 
-`[Borges; Mendes
-Moryama et; SOUSA et.]`
+`[BORGES, Wanessa Ferreira; MENDES, Eniceia Gonçalves. Tecnologia assistiva e baixa visão: apps e recursos de acessibilidade em dispositivos móveis. Cadernos Brasileiros de Terapia Ocupacional, São Carlos, v. 32, e3746, 2024.]`
+
+ `[MORIYAMA, Adriana Kiomi Michina; MICHALOSKI, Ariel Orlei; RETORTA, Miriam Sester. Desafios e possibilidades na produção e disponibilização de textos digitais acessíveis para estudantes com deficiência visual no Ensino Superior. Informação & Informação, Londrina, v. 30, n. 2, p. 79-105, abr./jun. 2025]`
+ 
+`[SOUSA, Antônio Willas Sales; CHAVES, Maria Auxiliadora de Oliveira; OLIVEIRA, Adonias Caetano de; LIMA, Marcos Vinicius de Andrade; MARTINS JUNIOR, Francisco Luciano Castro. Ferramentas de acessibilidade web para pessoas com deficiência visual: uma revisão integrativa. Revista Principia, João Pessoa, v. 63, e9079, 2026.
+]`
 
 ## Checklist
 
