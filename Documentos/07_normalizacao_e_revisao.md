@@ -7,7 +7,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 ## Identificação
 
 * Título do artigo: `[Acessibilidade da informação para pessoas com deficiência visual]`
-* Versão revisada: `[número]`
+* Versão revisada: `[12]`
 * Data: `[15/10/2026]`
 * Responsável pela conferência final: `[Rafael Yudi Tokunaga]`
 
