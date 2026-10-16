@@ -7,7 +7,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 ## Identificação
 
 * Título do artigo: `[Acessibilidade da informação para pessoas com deficiência visual]`
-* Versão revisada: `[1]`
+* Versão revisada: `[2]`
 * Data: `[15/10/2026]`
 * Responsável pela conferência final: `[Rafael Yudi Tokunaga]`
 
@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`[4]`|`[Erro na formatação]`|`[Correção da formatação]`|`[Rafael]`|
 
 
 
